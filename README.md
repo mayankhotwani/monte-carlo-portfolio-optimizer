@@ -1,6 +1,3 @@
-# monte-carlo-portfolio-optimizer
-Monte Carlo simulation for portfolio optimization on NSE stocks, with train/test split to check for overfitting.
-
 # Monte Carlo Portfolio Optimizer
 
 This project tries to answer a simple question: **'if you had ₹10,00,000 to invest across 8 Indian stocks, what mix of them gives you the best return for the risk you're taking?'**
